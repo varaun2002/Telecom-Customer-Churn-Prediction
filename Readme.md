@@ -7,7 +7,7 @@ This project demonstrates a complete end-to-end machine learning workflow — fr
 
 ## Files
 - `telecom_customer_churn.csv` — Source dataset containing customer records.
-- `telecom_churn_model.py` — Python script implementing the ML pipeline for churn prediction.
+- `telecom_churn_model.ipynb` — Python script implementing the ML pipeline for churn prediction.
 
 ---
 
